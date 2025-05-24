@@ -1,0 +1,8 @@
+nome,categoria,descricao,preco,ativo
+Pizza Margherita,Prato Principal,Molho de tomate com queijo e manjericao,35.00,true
+Lasanha Bolonhesa,Prato Principal,Carne moida com molho vermelho e queijo gratinado,42.00,true
+Spaghetti Carbonara,Prato Principal,Macarrao com molho cremoso de ovos bacon e queijo,38.00,true
+Bruschetta,Entrada,Pao tostado com tomate e manjericao,18.00,true
+Tiramisu,Sobremesa,Doce italiano com cafe e creme,22.00,true
+Agua com Gas,Bebida,Agua mineral com gas,6.00,true
+Refrigerante,Bebida,Bebida gaseificada em lata,7.00,true
